@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatement", "SwitchSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileStatement", "WhileStatement\WhileStatement.csproj", "{F01C39A0-179D-422B-BEC3-A5E54F840342}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionMathsOperators", "exception\ExceptionMathsOperators.csproj", "{2642C839-C71E-454A-B139-96CAD7D98741}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,14 @@ Global
 		{F01C39A0-179D-422B-BEC3-A5E54F840342}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F01C39A0-179D-422B-BEC3-A5E54F840342}.Release|x86.ActiveCfg = Release|Any CPU
 		{F01C39A0-179D-422B-BEC3-A5E54F840342}.Release|x86.Build.0 = Release|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Debug|x86.Build.0 = Debug|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Release|x86.ActiveCfg = Release|Any CPU
+		{2642C839-C71E-454A-B139-96CAD7D98741}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
